@@ -13,15 +13,18 @@ const index = () => (
               <img src="01- foto.jpg" alt="" className="img-fluid" />
             </div>
             <div className="col-md-8">
-              <h1>Franco antilipi</h1>
-              <h3>Fullstack Developer</h3>
+              <h1>Franco Antilipi</h1>
+              <h3>Fullstack Developer Junior</h3>
               <p>
-                Soy un desarrollador fronted con habilidades en Javascript,
-                HTML, CSS, React, Firebase y bases de datos SQL. Siempre estoy
-                buscando aprender y mejorar mis habilidades para crear
-                soluciones web de alta calidad.
+                Estudiante de segundo año de la carrera de Analista Programador
+                Universitario con experiencia como programador fullstack junior.
+                Apasionado por la resolución de problemas y el desarrollo de
+                soluciones innovadoras. Habilidades técnicas en HTML, CSS,
+                JavaScript, React, Next.js, Node.js, Redux, Firebase, GIT, NPM y
+                SQL. Comprometido con el aprendizaje continuo y la mejora
+                constante.
               </p>
-              <a href="hireme">Hire me</a>
+              <a href="hireme">contratame</a>
             </div>
           </div>
         </div>

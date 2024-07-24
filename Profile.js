@@ -70,6 +70,13 @@ export const experiencia = [
 
 export const projectos = [
   {
+    nombre: "TA-TE-TI",
+    descripcion:
+      "El juego clasico de TA-TE-TI, tic-tac-toe, tres en rayas, etc",
+    imagen: "Pantalla tateti.png",
+    link: "https://ta-ta-ti.netlify.app/",
+  },
+  {
     nombre: "Portafolio V.1",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suntneque, mollitia eius",
@@ -79,9 +86,16 @@ export const projectos = [
   {
     nombre: "Proyecto de Creaciones Nilda",
     descripcion:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suntneque, mollitia eius",
+      "Es un proyecto de fronted, realizado con canvas",
     imagen: "Pantalla nilda.png",
-    link: "https://creacionesnilda.netlify.app",
+    link: "https://confecciones-nilda.my.canva.site/",
+  },
+  {
+    nombre: "Ryck y morty App",
+    descripcion:
+      "Pagina de busqueda con la api de rick y morty",
+    imagen: "Pantalla Rick y morty.png",
+    link: "https://francoapirickmorty.netlify.app",
   },
   {
     nombre: "Proyecto de busqueda",
